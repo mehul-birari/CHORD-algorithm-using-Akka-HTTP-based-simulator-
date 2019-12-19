@@ -1,0 +1,28 @@
+target
+*.class
+
+
+# Intellij Files
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+
+# Eclipse Files
+build
+.classpath
+.project
+.settings
+org.scala-ide.sdt.core/META-INF/MANIFEST.MF
+org.scala-ide.sdt.update-site/site.xml
+
+# Vim Files
+tags
+.*.swp
+.*.swo
+
+# Logs folder
+logging
+output
